@@ -72,7 +72,6 @@
     <string name="sources_dialog_duplicate_name_error">سەرچاوەیەکی پینە بەم ناوە پێشتر بوونی هەیە</string>
     <string name="sources_dialog_missing_error">نەیتوانی سەرچاوەی ئەم پیینە نوێ بکاتەوە</string>
     <string name="sources_dialog_add_source">سەرچاوەی پینە زیاد بکە</string>
-    <string name="sources_dialog_delete_confirm_message">سڕینەوای سەرچاوەی \"%s\"؟ ئەمە ناتوانرێت هەڵبوەشێتەوە</string>
     <string name="sources_dialog_remote">دوورەدەست</string>
     <string name="sources_dialog_remote_url">URLی سەرچاوە</string>
     <string name="sources_dialog_local">ناوخۆ</string>

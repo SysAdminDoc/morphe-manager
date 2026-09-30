@@ -85,7 +85,6 @@
     <string name="sources_dialog_duplicate_name_error">Веќе постои извор на поправки со ова име</string>
     <string name="sources_dialog_missing_error">Не може да се ажурира изворот на закрпување</string>
     <string name="sources_dialog_add_source">Додај извор на поправки</string>
-    <string name="sources_dialog_delete_confirm_message">Дали сакате да го избришете изворот \"%s\"? Ова не може да се врати.</string>
     <string name="sources_dialog_remote">На далечина</string>
     <string name="sources_dialog_remote_url">URL адреса на извор</string>
     <string name="sources_dialog_local">Локално</string>

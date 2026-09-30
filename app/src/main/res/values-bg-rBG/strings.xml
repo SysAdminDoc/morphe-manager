@@ -172,7 +172,7 @@
     <string name="sources_dialog_duplicate_name_error">Източник с това име вече съществува</string>
     <string name="sources_dialog_missing_error">Не може да се обнови този източник на патча</string>
     <string name="sources_dialog_add_source">Добавяне на източник</string>
-    <string name="sources_dialog_delete_confirm_message">Изтриване на източника \"%s\"? Това не може да се върне.</string>
+    <string name="sources_dialog_delete_confirm_body">Това не може да бъде отменено</string>
     <string name="sources_dialog_remote">Удален</string>
     <string name="sources_dialog_remote_url">URL на източника</string>
     <string name="sources_dialog_remote_url_hint">Хранилище или връзка към .json пакет с корекции. Поставете няколко наведнъж, за да ги добавите всички</string>
@@ -1094,7 +1094,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_patched_apks_description">Управлява запазените файлове на приложения с пач</string>
     <string name="settings_system_patched_apks_empty">Все още няма запазени променени APK</string>
     <string name="settings_system_patched_apks_delete_title">Изтриване на променен APK?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Сигурни ли сте, че искате да изтриете запазения пачнат APK за &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Промененият APK е изтрит успешно</string>
     <string name="settings_system_patched_apks_delete_all_title">Изтриване на всички променени APK файлове?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1103,7 +1102,7 @@ morphe_header_custom_dark.png
     <string name="settings_system_original_apks_empty">Няма запазени оригинални APK</string>
     <string name="settings_system_original_apks_deleted">Оригиналният APK е изтрит успешно</string>
     <string name="settings_system_original_apks_delete_title">Изтриване на оригиналния APK?</string>
-    <string name="settings_system_original_apks_delete_confirm">Изтриване на оригиналния APK за &lt;b&gt;%s&lt;/b&gt;? Няма да можете да го пачнете отново, освен ако не предоставите нов APK.</string>
+    <string name="settings_system_original_apks_delete_notice">Няма да можете да патчнете отново, без да предоставите нов APK</string>
     <string name="settings_system_original_apks_delete_all_title">Изтриване на всички оригинални APK файлове?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Избрани поправки</string>

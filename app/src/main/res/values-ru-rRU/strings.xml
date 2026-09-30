@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">Источник патча с таким названием уже существует</string>
     <string name="sources_dialog_missing_error">Не удалось обновить этот источник патча</string>
     <string name="sources_dialog_add_source">Добавить источник патча</string>
-    <string name="sources_dialog_delete_confirm_message">Удалить источник \"%s\"? Это действие невозможно отменить</string>
+    <string name="sources_dialog_delete_confirm_body">Это действие нельзя отменить</string>
     <string name="sources_dialog_remote">Удаленный</string>
     <string name="sources_dialog_remote_url">URL источника</string>
     <string name="sources_dialog_remote_url_hint">Репозиторий или ссылка на JSON-файл пакета патчей. Вставьте несколько сразу, чтобы добавить их все.</string>
@@ -1094,7 +1094,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_patched_apks_description">Управление сохраненными патчеными файлами приложений</string>
     <string name="settings_system_patched_apks_empty">Патченые файлы APK еще не сохранены</string>
     <string name="settings_system_patched_apks_delete_title">Удалить патченный APK ?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Уверены, что хотите удалить сохраненный патченный APK для &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Патченый APK удален успешно</string>
     <string name="settings_system_patched_apks_delete_all_title">Удалить все пропатченные APK?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1103,7 +1102,7 @@ morphe_header_custom_dark.png
     <string name="settings_system_original_apks_empty">Нет сохраненных оригинальных APK</string>
     <string name="settings_system_original_apks_deleted">Оригинальный APK успешно удален</string>
     <string name="settings_system_original_apks_delete_title">Удалить оригинальный APK?</string>
-    <string name="settings_system_original_apks_delete_confirm">Удалить оригинальный APK для &lt;b&gt;%s&lt;/b&gt;? Вы не сможете перепатчить приложение без предоставления нового APK</string>
+    <string name="settings_system_original_apks_delete_notice">Вы не сможете повторно пропатчить без предоставления нового APK</string>
     <string name="settings_system_original_apks_delete_all_title">Удалить все оригинальные APK?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Выбор патчей</string>

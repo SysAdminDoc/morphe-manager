@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">Ya existe una fuente de parches con este nombre</string>
     <string name="sources_dialog_missing_error">No se pudo actualizar esta fuente de parches</string>
     <string name="sources_dialog_add_source">Añadir fuente de parches</string>
-    <string name="sources_dialog_delete_confirm_message">¿Eliminar la fuente \"%s\"? Esto no se puede deshacer</string>
+    <string name="sources_dialog_delete_confirm_body">Esto no se puede deshacer</string>
     <string name="sources_dialog_remote">Remota</string>
     <string name="sources_dialog_remote_url">URL de la fuente</string>
     <string name="sources_dialog_remote_url_hint">Un repositorio o un enlace a un paquete de parches .json. Pega varios a la vez para añadirlos todos</string>
@@ -1095,7 +1095,6 @@ Detalles: %2$s"</string>
     <string name="settings_system_patched_apks_description">Administra los archivos de aplicación parcheados guardados</string>
     <string name="settings_system_patched_apks_empty">No se han guardado APKs parcheados aún</string>
     <string name="settings_system_patched_apks_delete_title">¿Eliminar APK parcheado?</string>
-    <string name="settings_system_patched_apks_delete_confirm">¿Realmente quieres eliminar el APK parcheado guardado para &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">APK parcheado eliminado correctamente</string>
     <string name="settings_system_patched_apks_delete_all_title">¿Eliminar todos los APKs parcheados?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1104,7 +1103,7 @@ Detalles: %2$s"</string>
     <string name="settings_system_original_apks_empty">No hay APKs originales almacenados</string>
     <string name="settings_system_original_apks_deleted">APK original eliminado correctamente</string>
     <string name="settings_system_original_apks_delete_title">¿Eliminar APK original?</string>
-    <string name="settings_system_original_apks_delete_confirm">¿Eliminar el APK original para &lt;b&gt;%s&lt;/b&gt;? No podrás volver a parchear sin proporcionar un nuevo APK</string>
+    <string name="settings_system_original_apks_delete_notice">No podrás volver a parchear sin proporcionar un nuevo APK</string>
     <string name="settings_system_original_apks_delete_all_title">¿Eliminar todos los APKs originales?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Selecciones de parches</string>

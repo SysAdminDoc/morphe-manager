@@ -77,7 +77,6 @@
     <string name="sources_dialog_duplicate_name_error">ಈ ಹೆಸರಿನ ಪ್ಯಾಚ್ ಮೂಲ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ</string>
     <string name="sources_dialog_missing_error">ಈ ಪ್ಯಾಚ್ ಮೂಲವನ್ನು ನವೀಕರಿಸುವ ಸಾಧ್ಯವಿಲ್ಲ</string>
     <string name="sources_dialog_add_source">ಪ್ಯಾಚ್ ಮೂಲವನ್ನು ಸೇರಿಸಿ</string>
-    <string name="sources_dialog_delete_confirm_message">ಮೂಲ \"%s\" ಅನ್ನು ಅಳಿಸಲು ಬಯಸುತ್ತೀರಾ? ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ</string>
     <string name="sources_dialog_remote">ರಿಮೋಟ್</string>
     <string name="sources_dialog_remote_url">ಮೂಲ URL</string>
     <string name="sources_dialog_local">ಸ್ಥಳೀಯ</string>

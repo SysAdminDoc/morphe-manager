@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">এই নামের একটি প্যাচ সোর্স ইতিমধ্যে রয়েছে</string>
     <string name="sources_dialog_missing_error">এই প্যাচ সোর্স আপডেট করা যায়নি</string>
     <string name="sources_dialog_add_source">প্যাচ সোর্স যোগ করুন</string>
-    <string name="sources_dialog_delete_confirm_message">\"%s\" সোর্সটি ডিলিট করুন? এটি ফেরত আনা যাবে না</string>
+    <string name="sources_dialog_delete_confirm_body">এটি ফিরিয়ে আনা যাবে না</string>
     <string name="sources_dialog_remote">রিমোট</string>
     <string name="sources_dialog_remote_url">সোর্স URL</string>
     <string name="sources_dialog_remote_url_hint">একটি রিপোজিটরি বা একটি প্যাচ বান্ডেল .json-এর লিংক। একাধিক লিংক একসাথে পেস্ট করলে সব যোগ হবে।</string>
@@ -1086,7 +1086,6 @@ morphe_adaptive_monochrome_custom.xml
     <string name="settings_system_patched_apks_description">সংরক্ষিত প্যাচ করা অ্যাপ্লিকেশন ফাইলগুলি পরিচালনা করে।</string>
     <string name="settings_system_patched_apks_empty">কোনো প্যাচকৃত APK সংরক্ষিত হয়নি</string>
     <string name="settings_system_patched_apks_delete_title">প্যাচড APK মুছে ফেলতে চানেন? </string>
-    <string name="settings_system_patched_apks_delete_confirm">আপনি কি নিশ্চিত &lt;b&gt;%s&lt;/b&gt;-এর জন্য সংরক্ষিত প্যাচযুক্ত APK মুছে ফেলতে চান?</string>
     <string name="settings_system_patched_apks_deleted">প্যাচড APK মুছে ফেল হয়েছে</string>
     <string name="settings_system_patched_apks_delete_all_title">সমস্ত প্যাচ করা APK মুছে ফেলতে চান?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1095,7 +1094,7 @@ morphe_adaptive_monochrome_custom.xml
     <string name="settings_system_original_apks_empty">কোনো মূল APK ফাইল সংরক্ষিত হয়নি</string>
     <string name="settings_system_original_apks_deleted">মূল APK মুছে ফেল হয়েছে</string>
     <string name="settings_system_original_apks_delete_title">মূল APK মুছে ফেলতে চানেন? </string>
-    <string name="settings_system_original_apks_delete_confirm">&lt;b&gt;%s&lt;/b&gt;-এর জন্য আসল APK মুছে ফেলবেন? নতুন APK প্রদান না করে আপনি রিপ্যাচ করতে পারবেন না।</string>
+    <string name="settings_system_original_apks_delete_notice">নতুন APK প্রদান না করলে আপনি পুনরায় প্যাচ করতে পারবেন না</string>
     <string name="settings_system_original_apks_delete_all_title">সমস্ত আসল APK মুছে ফেলতে চান?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">প্যাচ নির্বাচন</string>

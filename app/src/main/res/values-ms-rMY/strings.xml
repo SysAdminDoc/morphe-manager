@@ -95,7 +95,6 @@
     <string name="sources_dialog_duplicate_name_error">Sumber tampalan dengan nama ini sudah ada</string>
     <string name="sources_dialog_missing_error">Sumber tampalan ini tidak dapat dikemas kini</string>
     <string name="sources_dialog_add_source">Tambah sumber tampalan</string>
-    <string name="sources_dialog_delete_confirm_message">Padam sumber \"%s\"? Tindakan ini tidak boleh diundurkan</string>
     <string name="sources_dialog_remote">Jauh</string>
     <string name="sources_dialog_remote_url">URL sumber</string>
     <string name="sources_dialog_local">Tempatan</string>

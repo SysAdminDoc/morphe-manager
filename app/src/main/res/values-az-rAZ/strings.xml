@@ -171,7 +171,6 @@
     <string name="sources_dialog_duplicate_name_error">Bu adla yamaq mənbəsi artıq var</string>
     <string name="sources_dialog_missing_error">Bu yamaq mənbəsin yeniləmək mümkün olmadı</string>
     <string name="sources_dialog_add_source">Yamaq mənbəsi əlavə et</string>
-    <string name="sources_dialog_delete_confirm_message">\"%s\" mənbəsini silməlimi? Bu geri alına bilməz</string>
     <string name="sources_dialog_remote">Uzaqdan</string>
     <string name="sources_dialog_remote_url">Mənbə URL-si</string>
     <string name="sources_dialog_remote_url_hint">Depo və ya yamaq paketi .json üçün link. Hamısını əlavə etmək üçün eyni anda bir neçəsini yapışdır</string>
@@ -1092,7 +1091,6 @@ Təfərrüatlar: %2$s"</string>
     <string name="settings_system_patched_apks_description">Yamaqlanıb saxlanılan tətbiq fayllarını idarə edir</string>
     <string name="settings_system_patched_apks_empty">Hələ saxlanılan yamaqlanmış APK-lar yoxdur</string>
     <string name="settings_system_patched_apks_delete_title">Yamaqlanan APK silinsin?</string>
-    <string name="settings_system_patched_apks_delete_confirm">&lt;b&gt;%s&lt;/b&gt; üçün saxlanılan, yamaqlanmış APK-nı silmək istədiyinizə əminsiniz?</string>
     <string name="settings_system_patched_apks_deleted">Yamaqlanan APK uğurla silindi</string>
     <string name="settings_system_patched_apks_delete_all_title">Bütün yamaqlanmış APK-lar silinsin?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1101,7 +1099,6 @@ Təfərrüatlar: %2$s"</string>
     <string name="settings_system_original_apks_empty">Əsil APK faylları saxlanılmayıb</string>
     <string name="settings_system_original_apks_deleted">Əsil APK uğurla silindi</string>
     <string name="settings_system_original_apks_delete_title">Əsil APK silinsin?</string>
-    <string name="settings_system_original_apks_delete_confirm">&lt;b&gt;%s&lt;/b&gt; üçün əsil APK silinsin? Yeni APK təmin etmədən təkrar yamaqlaya bilməyəcəksiniz</string>
     <string name="settings_system_original_apks_delete_all_title">Bütün orijinal APK-lar silinsin?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Yamaq seçimləri</string>

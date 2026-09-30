@@ -172,7 +172,7 @@
     <string name="sources_dialog_duplicate_name_error">יש כבר מקור תיקונים עם שם זה</string>
     <string name="sources_dialog_missing_error">עדכון מקור התיקונים הזה נכשל</string>
     <string name="sources_dialog_add_source">הוסף תצוג</string>
-    <string name="sources_dialog_delete_confirm_message">מחק את מקור \"%s\"? זה לא ניתן לשחזר</string>
+    <string name="sources_dialog_delete_confirm_body">לא ניתן לבטל פעולה זו</string>
     <string name="sources_dialog_remote">רחוק</string>
     <string name="sources_dialog_remote_url">כתובת תצוג</string>
     <string name="sources_dialog_remote_url_hint">מאגר או קישור לחבילת תיקונים .json. הדבק כמה בבת אחת כדי להוסיף את כולם</string>
@@ -1105,7 +1105,6 @@ drawable-xxhdpi: 387x144 פיקסלים
     <string name="settings_system_patched_apks_description">מנהל קבצי אפליקציות מתוקנים שמורים</string>
     <string name="settings_system_patched_apks_empty">עדיין לא נשמרו קבצי APK מתוקנים</string>
     <string name="settings_system_patched_apks_delete_title">למחוק את ה-APK המתוקן?</string>
-    <string name="settings_system_patched_apks_delete_confirm">האם אתה בטוח שברצונך למחוק את קובץ ה-APK המתוקן שנשמר עבור &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">קובץ ה-APK המתוקן נמחק בהצלחה</string>
     <string name="settings_system_patched_apks_delete_all_title">למחוק את כל קבצי ה-APK שעברו תיקון?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1114,7 +1113,7 @@ drawable-xxhdpi: 387x144 פיקסלים
     <string name="settings_system_original_apks_empty">לא נשמרו קבצי APK מקוריים</string>
     <string name="settings_system_original_apks_deleted">ה-APK המקורי נמחק בהצלחה</string>
     <string name="settings_system_original_apks_delete_title">האם למחוק את ה-APK המקורי?</string>
-    <string name="settings_system_original_apks_delete_confirm">למחוק את קובץ ה-APK המקורי עבור &lt;b&gt;%s&lt;/b&gt;? לא תוכל לתקן אותו שוב ללא מתן קובץ APK חדש.</string>
+    <string name="settings_system_original_apks_delete_notice">לא תוכל לתקן מחדש מבלי לספק APK חדש</string>
     <string name="settings_system_original_apks_delete_all_title">למחוק את כל האפקים המקוריים?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">ניהול בחירות תיקון</string>

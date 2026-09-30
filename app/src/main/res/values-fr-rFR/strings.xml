@@ -172,7 +172,7 @@
     <string name="sources_dialog_duplicate_name_error">Une source de patchs portant ce nom existe déjà</string>
     <string name="sources_dialog_missing_error">Impossible de mettre à jour cette source de patchs</string>
     <string name="sources_dialog_add_source">Ajouter une source de patchs</string>
-    <string name="sources_dialog_delete_confirm_message">Supprimer la source \"%s\" ? Cela ne peut pas être réversible</string>
+    <string name="sources_dialog_delete_confirm_body">Cette action est irréversible</string>
     <string name="sources_dialog_remote">Distante</string>
     <string name="sources_dialog_remote_url">URL de la source</string>
     <string name="sources_dialog_remote_url_hint">Un dépôt ou un lien vers un bundle de patchs au format .json. Collez-en plusieurs à la fois pour tous les ajouter</string>
@@ -1100,8 +1100,6 @@ Détails : %2$s"</string>
     <string name="settings_system_patched_apks_description">Gère les fichiers d\'applications patchées enregistrés</string>
     <string name="settings_system_patched_apks_empty">Aucun APK patchés enregistrés pour l\'instant</string>
     <string name="settings_system_patched_apks_delete_title">Supprimer l\'APK patché ?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Êtes-vous sûr de vouloir supprimer l\'APK patché enregistré pour &lt;b&gt;%s&lt;/b&gt; ?
-</string>
     <string name="settings_system_patched_apks_deleted">L\'APK patché supprimé avec succès</string>
     <string name="settings_system_patched_apks_delete_all_title">Supprimer tous les APK patchés ?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1110,7 +1108,7 @@ Détails : %2$s"</string>
     <string name="settings_system_original_apks_empty">Aucun APK d\'origine enregistré</string>
     <string name="settings_system_original_apks_deleted">L\'APK d\'origine supprimé avec succès</string>
     <string name="settings_system_original_apks_delete_title">Supprimer l\'APK d\'origine ?</string>
-    <string name="settings_system_original_apks_delete_confirm">Supprimer l\'APK d\'origine pour &lt;b&gt;%s&lt;/b&gt; ? Vous ne pourrez pas re-patcher sans fournir un nouvel APK</string>
+    <string name="settings_system_original_apks_delete_notice">Vous ne pourrez pas repatcher sans fournir un nouvel APK</string>
     <string name="settings_system_original_apks_delete_all_title">Supprimer tous les APK d\'origine ?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Sélections de patchs</string>

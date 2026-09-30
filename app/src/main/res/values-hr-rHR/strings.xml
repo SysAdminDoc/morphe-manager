@@ -172,7 +172,7 @@ Ovaj izvor se nalazi na predizdanjima patcheva. Patchanje može propasti ili se 
     <string name="sources_dialog_duplicate_name_error">Izvor patcha s ovim nazivom već postoji</string>
     <string name="sources_dialog_missing_error">Nije moguće ažurirati ovaj izvor patcha</string>
     <string name="sources_dialog_add_source">Dodaj izvor patcha</string>
-    <string name="sources_dialog_delete_confirm_message">Izbrisati izvor \"%s\"? To se ne može poništiti</string>
+    <string name="sources_dialog_delete_confirm_body">Ovo se ne može poništiti</string>
     <string name="sources_dialog_remote">Daljnji</string>
     <string name="sources_dialog_remote_url">Izvor poveznice</string>
     <string name="sources_dialog_remote_url_hint">Repozitorij ili poveznica na .json datoteku sa skupom zakrpa. Zalijepi nekoliko odjednom i sve će se dodati.</string>
@@ -1098,7 +1098,6 @@ Detalji: %2$s"</string>
     <string name="settings_system_patched_apks_description">Upravljajte spremljenim patchanim aplikacijama</string>
     <string name="settings_system_patched_apks_empty">Još nema spremljenih patchanih aplikacija</string>
     <string name="settings_system_patched_apks_delete_title">Izbrisati patchanu aplikaciju?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Jeste li sigurni da želite izbrisati spremljeni patchani  APK za &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Uspješno izbrisana patchirana aplikacija</string>
     <string name="settings_system_patched_apks_delete_all_title">Izbrisati sve patchane APK-ove?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1107,7 +1106,7 @@ Detalji: %2$s"</string>
     <string name="settings_system_original_apks_empty">Nema pohranjenih originalnih aplikacija</string>
     <string name="settings_system_original_apks_deleted">Uspješno izbrisana originalna aplikacija</string>
     <string name="settings_system_original_apks_delete_title">Želite li izbrisati originalnu aplikaciju?</string>
-    <string name="settings_system_original_apks_delete_confirm">Izbrisati originalni APK za &lt;b&gt;%s&lt;/b&gt;? Nećete moći ponovno patchati bez pružanja novog APK-a.</string>
+    <string name="settings_system_original_apks_delete_notice">Nećete moći ponovno zakrpati bez pružanja novog APK-a</string>
     <string name="settings_system_original_apks_delete_all_title">Želite li izbrisati sve originalne APK datoteke?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Odabir patcheva</string>

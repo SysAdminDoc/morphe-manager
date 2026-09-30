@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">Există deja o sursă de patch-uri cu acest nume</string>
     <string name="sources_dialog_missing_error">Nu s-a putut actualiza sursa aceasta de patch-uri</string>
     <string name="sources_dialog_add_source">Adaugă sursă de patch-uri</string>
-    <string name="sources_dialog_delete_confirm_message">Ștergi sursa \"%s\"? Acest lucru nu poate fi anulat.</string>
+    <string name="sources_dialog_delete_confirm_body">Această acțiune nu poate fi anulată</string>
     <string name="sources_dialog_remote">Distanță</string>
     <string name="sources_dialog_remote_url">URL-ul sursei</string>
     <string name="sources_dialog_remote_url_hint">Un repository sau un link către un pachet de corecții .json. Lipește mai multe deodată pentru a le adăuga pe toate</string>
@@ -1091,7 +1091,6 @@ Detalii: %2$s"</string>
     <string name="settings_system_patched_apks_description">Administrează fișierele patch-uite salvate ale aplicațiilor</string>
     <string name="settings_system_patched_apks_empty">Niciun APK patch-uit salvat încă</string>
     <string name="settings_system_patched_apks_delete_title">Ștergi APK-ul patch-uit?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Ești sigur că vrei să ștergi APK-ul patch-uit salvat pentru &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">APK-ul patch-uit a fost șters cu succes</string>
     <string name="settings_system_patched_apks_delete_all_title">Ștergi toate APK-urile modificate?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1100,7 +1099,7 @@ Detalii: %2$s"</string>
     <string name="settings_system_original_apks_empty">Niciun APK original stocat</string>
     <string name="settings_system_original_apks_deleted">APK original șters cu succes</string>
     <string name="settings_system_original_apks_delete_title">Ștergi APK-ul original?</string>
-    <string name="settings_system_original_apks_delete_confirm">Ștergi APK-ul original pentru &lt;b&gt;%s&lt;/b&gt;? Nu vei mai putea aplica patch-uri fără a furniza un nou APK.</string>
+    <string name="settings_system_original_apks_delete_notice">Nu vei putea aplica din nou patch-ul fără să furnizezi un APK nou.</string>
     <string name="settings_system_original_apks_delete_all_title">Ștergi toate APK-urile originale?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Gestiune selectii de modificări</string>

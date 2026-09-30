@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">已存在同名的补丁包</string>
     <string name="sources_dialog_missing_error">无法更新此补丁源。</string>
     <string name="sources_dialog_add_source">添加补丁源</string>
-    <string name="sources_dialog_delete_confirm_message">删除源“%s”吗？此操作无法撤销</string>
+    <string name="sources_dialog_delete_confirm_body">此操作无法撤销</string>
     <string name="sources_dialog_remote">远程</string>
     <string name="sources_dialog_remote_url">源 URL</string>
     <string name="sources_dialog_remote_url_hint">仓库或补丁包 .json 的链接。一次粘贴多个即可全部添加</string>
@@ -1095,7 +1095,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_patched_apks_description">管理保存的已修补应用文件</string>
     <string name="settings_system_patched_apks_empty">尚未保存任何已修补 APK</string>
     <string name="settings_system_patched_apks_delete_title">是否要删除已保存的修补 APK？</string>
-    <string name="settings_system_patched_apks_delete_confirm">您确定要删除已保存的已修补APK，用于&lt;b&gt;%s&lt;/b&gt;吗？</string>
     <string name="settings_system_patched_apks_deleted">已成功删除修补 APK</string>
     <string name="settings_system_patched_apks_delete_all_title">删除所有已修补的 APK？</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1104,7 +1103,7 @@ morphe_header_custom_dark.png
     <string name="settings_system_original_apks_empty">尚未存储任何原始 APK</string>
     <string name="settings_system_original_apks_deleted">已成功删除原始 APK</string>
     <string name="settings_system_original_apks_delete_title">是否要删除原始 APK？</string>
-    <string name="settings_system_original_apks_delete_confirm">删除&lt;b&gt;%s&lt;/b&gt;的原始APK？ 如果没有提供新的APK，您将无法重新修补。</string>
+    <string name="settings_system_original_apks_delete_notice">不提供新的 APK，您将无法重新修补</string>
     <string name="settings_system_original_apks_delete_all_title">删除所有原始 APK？</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">补丁选择项</string>

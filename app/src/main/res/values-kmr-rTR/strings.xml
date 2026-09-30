@@ -150,7 +150,6 @@
     <string name="sources_dialog_duplicate_name_error">Çavkaniyek bi vana navê berê heye</string>
     <string name="sources_dialog_missing_error">Niwia nûvekirin bilîxe</string>
     <string name="sources_dialog_add_source">Çavkaniyê zêde bike</string>
-    <string name="sources_dialog_delete_confirm_message">Dermanî çavkaniyê \"%s\" bifirîne?  Ev neyê vegerandin.</string>
     <string name="sources_dialog_remote">Dûr</string>
     <string name="sources_dialog_remote_url">URL-ya çavkaniyê</string>
     <string name="sources_dialog_local">Nêzîk</string>
@@ -966,7 +965,6 @@ Detay: %2$s"</string>
     <string name="settings_system_patched_apks_description">Pelên programa girêtî yên tomarî birêve bibe</string>
     <string name="settings_system_patched_apks_empty">Heta niha APK\'yên veşartin ne serwerastin</string>
     <string name="settings_system_patched_apks_delete_title">APK\'yên veşartin bibe serwerast bike?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Maqlû binî ku hewce ye APK-ya paqijkirî ya &lt;b&gt;%s&lt;/b&gt; were terkirin?</string>
     <string name="settings_system_patched_apks_deleted">APK\'yên veşartin bi serketinê serwerastin</string>
     <string name="settings_system_patched_apks_delete_all_title">Hemû APK-yên hatine guhertin sîl kirin?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -975,7 +973,6 @@ Detay: %2$s"</string>
     <string name="settings_system_original_apks_empty">APK\'yên orjînal ên serwerastin tune</string>
     <string name="settings_system_original_apks_deleted">APK\'yên orjînal bi serketinê serwerastin</string>
     <string name="settings_system_original_apks_delete_title">APK\'yên orjînal bibe serwerast bike?</string>
-    <string name="settings_system_original_apks_delete_confirm">APK-ya serê ya &lt;b&gt;%s&lt;/b&gt; were terkirin? Heke APK-ya nû nedin, nikaribî dîsa paqijkirî bike</string>
     <string name="settings_system_original_apks_delete_all_title">Hemû APK-yên orjînal sîl kirin?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Bijartinê qelvaton</string>

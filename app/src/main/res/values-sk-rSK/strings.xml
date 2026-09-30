@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">Zdroj záplat s týmto názvom už existuje</string>
     <string name="sources_dialog_missing_error">Nebolo možné aktualizovať tento zdroj záplaty</string>
     <string name="sources_dialog_add_source">Pridať zdroj záplat</string>
-    <string name="sources_dialog_delete_confirm_message">Vymazať zdroj \'%s\'? Toto nie je možné vrátiť späť</string>
+    <string name="sources_dialog_delete_confirm_body">Toto sa nedá vrátiť späť</string>
     <string name="sources_dialog_remote">Vzdialené</string>
     <string name="sources_dialog_remote_url">URL zdroja</string>
     <string name="sources_dialog_remote_url_hint">Repozitár alebo odkaz na súbor .json s balíkom záplat. Prilepte ich niekoľko naraz a pridajú sa všetky</string>
@@ -1094,7 +1094,6 @@ Podrobnosti: %2$s"</string>
     <string name="settings_system_patched_apks_description">Spravovať zaplátané súbory aplikácií</string>
     <string name="settings_system_patched_apks_empty">Nie sú uložené žiadne zaplátané APK súbory</string>
     <string name="settings_system_patched_apks_delete_title">Vymazať zaplátaný APK súbor?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Ste si istý, že chcete odstrániť uložené zaplátané APK súbory pre &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Zaplátaný APK súbor bol vymazaný</string>
     <string name="settings_system_patched_apks_delete_all_title">Vymazať všetky zaplátané APK súbory?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1103,7 +1102,7 @@ Podrobnosti: %2$s"</string>
     <string name="settings_system_original_apks_empty">Nie sú uložené žiadne originálne APK súbory</string>
     <string name="settings_system_original_apks_deleted">Pôvodný APK súbor bol vymazaný</string>
     <string name="settings_system_original_apks_delete_title">Vymazať pôvodný APK súbor?</string>
-    <string name="settings_system_original_apks_delete_confirm">Vymazať pôvodný APK súbor pre &lt;b&gt;%s&lt;/b&gt;? Nebudete ho môcť znovu zaplátať bez poskytnutia nového APK súboru</string>
+    <string name="settings_system_original_apks_delete_notice">Nebudete môcť znova patchovať bez poskytnutia nového APK</string>
     <string name="settings_system_original_apks_delete_all_title">Vymazať všetky pôvodné APK súbory?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Voľba záplat</string>

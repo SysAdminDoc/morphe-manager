@@ -171,7 +171,6 @@
     <string name="sources_dialog_duplicate_name_error">Μια πηγή τροποποίησης με το ίδιο όνομα υπάρχει ήδη</string>
     <string name="sources_dialog_missing_error">Ανεπιτυχής ενημέρωση της πηγής τροποποίησης</string>
     <string name="sources_dialog_add_source">Προσθήκη πηγής τροποποίησης</string>
-    <string name="sources_dialog_delete_confirm_message">Διαγραφή πηγής \"%s\"; Αυτό δεν μπορεί να αναστραφεί.</string>
     <string name="sources_dialog_remote">Απομακρυσμένη</string>
     <string name="sources_dialog_remote_url">URL Πηγής</string>
     <string name="sources_dialog_remote_url_hint">Ένα αποθετήριο ή ένας σύνδεσμος προς ένα .json πακέτο ενημερώσεων. Επικολλήστε πολλά ταυτόχρονα για να τα προσθέσετε όλα.</string>
@@ -1091,7 +1090,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_patched_apks_description">Διαχείριση αποθηκευμένων αρχείων τροποποιημένων εφαρμογών</string>
     <string name="settings_system_patched_apks_empty">Δεν υπάρχουν αποθηκευμένες τροποποιημένες APKs ακόμα</string>
     <string name="settings_system_patched_apks_delete_title">Διαγραφή τροποποιημένης APK;</string>
-    <string name="settings_system_patched_apks_delete_confirm">Είστε βέβαιοι ότι θέλετε να διαγράψετε την αποθηκευμένη τροποποιημένη APK για &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Επιτυχής διαγραφή</string>
     <string name="settings_system_patched_apks_delete_all_title">Διαγραφή όλων των τροποποιημένων APK;</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1100,7 +1098,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_original_apks_empty">Δεν υπάρχουν αποθηκευμένες πρωτότυπες APKs</string>
     <string name="settings_system_original_apks_deleted">Η πρωτότυπη APK διαγράφτηκε επιτυχώς</string>
     <string name="settings_system_original_apks_delete_title">Διαγραφή αρχικού APK;</string>
-    <string name="settings_system_original_apks_delete_confirm">Διαγραφή πρωτότυπης APK για &lt;b&gt;%s&lt;/b&gt;? Δε θα μπορείτε να τροποποιήσετε ξανά χωρίς δοθεί νέο APK</string>
     <string name="settings_system_original_apks_delete_all_title">Διαγραφή όλων των αρχικών APK;</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Επιλεγμένες τροποποιήσεις</string>

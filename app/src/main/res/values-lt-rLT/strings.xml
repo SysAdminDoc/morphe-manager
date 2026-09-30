@@ -97,7 +97,6 @@
     <string name="sources_dialog_duplicate_name_error">Pataisų šaltinis su šiuo pavadinimu jau egzistuoja</string>
     <string name="sources_dialog_missing_error">Negalima atnaujinti šio pataisos šaltinio</string>
     <string name="sources_dialog_add_source">Pridėti pataisų šaltini</string>
-    <string name="sources_dialog_delete_confirm_message">Ištrinti šaltinį \"%s\"? Šio veiksmo negalima atkurti</string>
     <string name="sources_dialog_remote">Nuotolinis</string>
     <string name="sources_dialog_remote_url">Šaltinio URL</string>
     <string name="sources_dialog_local">Vietinis</string>

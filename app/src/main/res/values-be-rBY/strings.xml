@@ -131,7 +131,6 @@
     <string name="sources_dialog_duplicate_name_error">Крыніца патча з такой назвай ужо існуе</string>
     <string name="sources_dialog_missing_error">Не ўдалося абнавіць гэтую крыніцу патча</string>
     <string name="sources_dialog_add_source">Дадаць крыніцу патча</string>
-    <string name="sources_dialog_delete_confirm_message">Выдаліць крыніцу \"%s\"? Гэтага нельга будзе адмяніць</string>
     <string name="sources_dialog_remote">Знешні</string>
     <string name="sources_dialog_remote_url">URL крыніцы</string>
     <string name="sources_dialog_local">Лакальны</string>

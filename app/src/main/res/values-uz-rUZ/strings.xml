@@ -151,7 +151,6 @@
     <string name="sources_dialog_duplicate_name_error">Bunday nomdagi tuzatish manbai allaqachon mavjud</string>
     <string name="sources_dialog_missing_error">Ushbu patch manbasini yangilash mumkin emas</string>
     <string name="sources_dialog_add_source">Tuzatish manbai qo\'shish</string>
-    <string name="sources_dialog_delete_confirm_message">Manbani o\'chirib tashlash \"%s\"? Ushbu harakatni bekor qilish mumkin emas</string>
     <string name="sources_dialog_remote">Uzoq</string>
     <string name="sources_dialog_remote_url">Manba URL</string>
     <string name="sources_dialog_local">Mahalliy</string>
@@ -968,7 +967,6 @@ Ma’lumotlar: %2$s"</string>
     <string name="settings_system_patched_apks_description">Patchlangan ilova fayllariga boshqaruv</string>
     <string name="settings_system_patched_apks_empty">Mahalliy</string>
     <string name="settings_system_patched_apks_delete_title">Tuzatilgan APKni o‘chirib tashlash?</string>
-    <string name="settings_system_patched_apks_delete_confirm">&lt;b&gt;%s&lt;/b&gt; uchun saqlangan tuzatilgan APK ni o\'chirishni xohlayapsizmi?</string>
     <string name="settings_system_patched_apks_deleted">Tuzatilgan APK muvaffaqiyatli o‘chirildi</string>
     <string name="settings_system_patched_apks_delete_all_title">Hapus semua APK yang ditambal?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -977,7 +975,6 @@ Ma’lumotlar: %2$s"</string>
     <string name="settings_system_original_apks_empty">Yangilash mavjud emas</string>
     <string name="settings_system_original_apks_deleted">Manbalarni yuklab olishda xatolik: %s</string>
     <string name="settings_system_original_apks_delete_title">Original APKni o‘chirib tashlash?</string>
-    <string name="settings_system_original_apks_delete_confirm">&lt;b&gt;%s&lt;/b&gt; uchun asl APK ni o\'chirish? Yangi APK taqdim etmasangiz, uni qayta tuzata olmaysiz.</string>
     <string name="settings_system_original_apks_delete_all_title">Hapus semua APK asli?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Tuzatish imkoniyatlari</string>

@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">Heimild breytistillinga með þessu nafn er þegar til</string>
     <string name="sources_dialog_missing_error">Ekki tókst að uppfæra þessa pakkagjafa</string>
     <string name="sources_dialog_add_source">Bæta við heimild breytistillingum</string>
-    <string name="sources_dialog_delete_confirm_message">Eyða pakkagjafa \"%s\"? Þetta er ekki hægt að afgreiða</string>
+    <string name="sources_dialog_delete_confirm_body">Ekki er hægt að afturkalla þetta</string>
     <string name="sources_dialog_remote">Fjarlægur</string>
     <string name="sources_dialog_remote_url">Netföng</string>
     <string name="sources_dialog_remote_url_hint">Safn eða tengill á plástrasafn .json. Límdu inn nokkra í einu til að bæta þeim öllum við.</string>
@@ -1087,7 +1087,6 @@ Nánari upplýsingar: %2$s"</string>
     <string name="settings_system_patched_apks_description">Stjórnar geymda breyttum forritsskráum</string>
     <string name="settings_system_patched_apks_empty">Engar pattaðar APK-skrár vistaðar enn</string>
     <string name="settings_system_patched_apks_delete_title">Eyða pattaðri APK?</string>
-    <string name="settings_system_patched_apks_delete_confirm"> Ertu viss um að þú viljir eyða vistaðri breyttu APK skúú fyrir &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Pattað APK skrá eytt með árangri</string>
     <string name="settings_system_patched_apks_delete_all_title">Eyða öllum breyttu APK-skrám?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1096,7 +1095,7 @@ Nánari upplýsingar: %2$s"</string>
     <string name="settings_system_original_apks_empty">Engar upprunalegar APK-skrár geymdar</string>
     <string name="settings_system_original_apks_deleted">Upprunaleg APK skrá eytt með árangri</string>
     <string name="settings_system_original_apks_delete_title">Eyða upprunalegri APK?</string>
-    <string name="settings_system_original_apks_delete_confirm"> Eyúa upprunalegu APK skúú fyrir &lt;b&gt;%s&lt;/b&gt;?  Þ mun ekki vera hægt að að breyta aftur núúður en með athuga núðu APK</string>
+    <string name="settings_system_original_apks_delete_notice">Þú munt ekki geta endurplástrað án þess að útvega nýtt APK</string>
     <string name="settings_system_original_apks_delete_all_title">Eyða öllum upprunalegu APK-skrám?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Pökkunaval</string>

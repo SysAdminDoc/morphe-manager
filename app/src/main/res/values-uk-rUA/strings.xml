@@ -171,7 +171,7 @@
     <string name="sources_dialog_duplicate_name_error">Джерело з такою назвою вже існує</string>
     <string name="sources_dialog_missing_error">Не вдалося оновити це джерело патчів</string>
     <string name="sources_dialog_add_source">Додати джерело патчів</string>
-    <string name="sources_dialog_delete_confirm_message">Видалити джерело \"%s\"? Цю дію неможливо скасувати</string>
+    <string name="sources_dialog_delete_confirm_body">Це неможливо скасувати</string>
     <string name="sources_dialog_remote">Віддалене</string>
     <string name="sources_dialog_remote_url">URL джерела</string>
     <string name="sources_dialog_remote_url_hint">Репозиторій або посилання на файл .json пакета патчів. Вставте кілька одразу, щоб додати їх усі</string>
@@ -1095,7 +1095,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_patched_apks_description">Керує збереженими файлами патчених застосунків</string>
     <string name="settings_system_patched_apks_empty">Патчених APK файлів ще не збережено</string>
     <string name="settings_system_patched_apks_delete_title">Видалити патчений APK файл?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Ви впевнені, що хочете видалити збережений пропатчений APK файл для &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Патчений APK файл видалено успішно</string>
     <string name="settings_system_patched_apks_delete_all_title">Видалити всі пропатчені APK?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1104,7 +1103,7 @@ morphe_header_custom_dark.png
     <string name="settings_system_original_apks_empty">Не збережено жодних оригінальних APK файлів</string>
     <string name="settings_system_original_apks_deleted">Оригінальний APK файл видалено успішно</string>
     <string name="settings_system_original_apks_delete_title">Видалити оригінальний APK файл?</string>
-    <string name="settings_system_original_apks_delete_confirm">Видалити оригінальний APK файл для &lt;b&gt;%s&lt;/b&gt;? Ви не зможете повторно пропатчити без надання нового APK файлу</string>
+    <string name="settings_system_original_apks_delete_notice">Ви не зможете повторно пропатчити без надання нового APK</string>
     <string name="settings_system_original_apks_delete_all_title">Видалити всі оригінальні APK?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Вибір патчів</string>

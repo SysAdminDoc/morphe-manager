@@ -172,7 +172,7 @@
     <string name="sources_dialog_duplicate_name_error">Źródło modyfikacji o tej nazwie już istnieje</string>
     <string name="sources_dialog_missing_error">Nie można zaktualizować tego źródła modyfikacji</string>
     <string name="sources_dialog_add_source">Dodaj źródło modyfikacji</string>
-    <string name="sources_dialog_delete_confirm_message">Usunąć źródło \"%s\"? Tej operacji nie da się cofnąć</string>
+    <string name="sources_dialog_delete_confirm_body">Tej operacji nie można cofnąć</string>
     <string name="sources_dialog_remote">Zdalne</string>
     <string name="sources_dialog_remote_url">Adres źródła</string>
     <string name="sources_dialog_remote_url_hint">Repozytorium lub link do pakietu modyfikacji .json. Wklej kilka naraz, aby dodać wszystkie</string>
@@ -1096,7 +1096,6 @@ Wymagane są następujące wymiary obrazów:
     <string name="settings_system_patched_apks_description">Zarządza zapisanymi plikami zmodyfikowanych aplikacji</string>
     <string name="settings_system_patched_apks_empty">Brak zapisanych plików APK</string>
     <string name="settings_system_patched_apks_delete_title">Usunąć zmodyfikowany plik APK?</string>
-    <string name="settings_system_patched_apks_delete_confirm">Czy na pewno chcesz usunąć zapisany zmodyfikowany plik APK aplikacji &lt;b&gt;%s&lt;/b&gt;?</string>
     <string name="settings_system_patched_apks_deleted">Zmodyfikowany plik APK usunięty pomyślnie</string>
     <string name="settings_system_patched_apks_delete_all_title">Usunąć wszystkie zmodyfikowane pliki APK?</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1105,7 +1104,7 @@ Wymagane są następujące wymiary obrazów:
     <string name="settings_system_original_apks_empty">Brak zapisanych oryginalnych plików APK</string>
     <string name="settings_system_original_apks_deleted">Oryginalny plik APK usunięty pomyślnie</string>
     <string name="settings_system_original_apks_delete_title">Usunąć oryginalny plik APK?</string>
-    <string name="settings_system_original_apks_delete_confirm">Usunąć oryginalny plik APK dla aplikacji &lt;b&gt;%s&lt;/b&gt;? Nie będzie można ponownie modyfikować aplikacji bez wybrania nowego pliku APK</string>
+    <string name="settings_system_original_apks_delete_notice">Nie będziesz mógł ponownie załatać bez podania nowego APK</string>
     <string name="settings_system_original_apks_delete_all_title">Usunąć wszystkie oryginalne pliki APK?</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">Wybrane modyfikacje</string>

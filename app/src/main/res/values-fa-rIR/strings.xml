@@ -160,7 +160,6 @@
     <string name="sources_dialog_duplicate_name_error">یک منبع پچ با این نام قبلا وجود دارد</string>
     <string name="sources_dialog_missing_error">نتوانستم منبع این پچ را به روزرسانی کنم</string>
     <string name="sources_dialog_add_source">افزودن منبع پچ</string>
-    <string name="sources_dialog_delete_confirm_message">حذف منبع  «%s» ؟ این قابل بازگشت نیست</string>
     <string name="sources_dialog_remote">از راه دور</string>
     <string name="sources_dialog_remote_url">آدرس منبع</string>
     <string name="sources_dialog_local">محلی</string>
@@ -1027,7 +1026,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_patched_apks_description">فایل‌های برنامهٔ پچ‌شدهٔ ذخیره‌شده را مدیریت می‌کند</string>
     <string name="settings_system_patched_apks_empty">هنوز APK پچ‌شده‌ای ذخیره نشده است</string>
     <string name="settings_system_patched_apks_delete_title">APK پچ‌شده حذف شود؟</string>
-    <string name="settings_system_patched_apks_delete_confirm">آیا مطمئنید می‌خواهید APK پچ‌شدهٔ ذخیره‌شدهٔ &lt;b&gt;%s&lt;/b&gt; را حذف کنید؟</string>
     <string name="settings_system_patched_apks_deleted">APK پچ‌شده با موفقیت حذف شد</string>
     <string name="settings_system_patched_apks_delete_all_title">همهٔ APKهای پچ‌شده حذف شوند؟</string>
     <!-- Settings - System Tab - Storage Management - Original APKs Management -->
@@ -1036,7 +1034,6 @@ morphe_header_custom_dark.png
     <string name="settings_system_original_apks_empty">هیچ APK اصلی ذخیره نشده است</string>
     <string name="settings_system_original_apks_deleted">APK اصلی با موفقیت حذف شد</string>
     <string name="settings_system_original_apks_delete_title">APK اصلی حذف شود؟</string>
-    <string name="settings_system_original_apks_delete_confirm">APK اصلی &lt;b&gt;%s&lt;/b&gt; حذف شود؟ بدون ارائهٔ APK جدید نمی‌توانید دوباره آن را پچ کنید</string>
     <string name="settings_system_original_apks_delete_all_title">همهٔ APKهای اصلی حذف شوند؟</string>
     <!-- Settings - System Tab - Storage Management - Patch Selection Management -->
     <string name="settings_system_patch_selections_title">انتخاب‌های پچ</string>

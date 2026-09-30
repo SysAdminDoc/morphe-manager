@@ -78,7 +78,6 @@
     <string name="sources_dialog_duplicate_name_error">Unha fonte de parches con este nome xa existe</string>
     <string name="sources_dialog_missing_error">Non se puido actualizar esta fonte de parches</string>
     <string name="sources_dialog_add_source">Engadir fonte de parche</string>
-    <string name="sources_dialog_delete_confirm_message">Eliminar fonte \"%s\"? Esta acción non se pode desfacer</string>
     <string name="sources_dialog_remote">Remoto</string>
     <string name="sources_dialog_remote_url">URL da fonte</string>
     <string name="sources_dialog_local">Local</string>
